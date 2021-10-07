@@ -1,5 +1,7 @@
 
-![image](https://github.com/mpgn/mpgn/blob/master/5l1MUjk.gif)
+![AmazingHalfBushsqueaker-size_restricted](https://user-images.githubusercontent.com/5891788/136441854-ed991d6b-be8a-4c24-8927-2babb448888c.gif)
+
+
 
 
 <!--
