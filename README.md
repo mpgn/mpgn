@@ -1,6 +1,5 @@
 
-![AmazingHalfBushsqueaker-size_restricted](https://user-images.githubusercontent.com/5891788/136441854-ed991d6b-be8a-4c24-8927-2babb448888c.gif)
-
+![image](https://user-images.githubusercontent.com/5891788/137599165-c007600e-3665-4f25-b951-3d12ac4718d4.png)
 
 
 
