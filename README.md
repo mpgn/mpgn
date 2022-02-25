@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://twitter.com/mpgn_x64"><img src="https://img.shields.io/twitter/follow/mpgn_x64?style=for-the-badge&logo=twitter"></a>
+    <a href="https://github.com/mpgn"><img src="https://img.shields.io/github/followers/mpgn?style=for-the-badge&logo=github"></a>
+</p>
+
+---
 
 ![image](https://user-images.githubusercontent.com/5891788/137599165-c007600e-3665-4f25-b951-3d12ac4718d4.png)
 
